@@ -1,0 +1,9 @@
+app and project --> project contains config and apps
+
+name convertion --> function names should be lowercase,with word separated with underscores as necessary to improve readability.
+                    variable  --> the same with function name rules.
+
+In python, ancestor of a class simply listed in paranthese immediately after the class name. 
+Like exetends in java. --> class FieldInfo(UserDict)
+
+
